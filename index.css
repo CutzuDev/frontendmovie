@@ -247,7 +247,6 @@ header.shadow .navbar li {
     transition: 0.2s all linear;
 }
 .heading {
-    width: 968px;
     margin-left: auto;
     margin-right: auto;
     font-size: 2rem;
